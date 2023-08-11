@@ -9,8 +9,6 @@ Time spent: 10 hours.
 ## Required Features
 
 The following **required** functionality is completed:
-
-<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
 - [X] **A logical component structure in React is used to create the frontend of the app**
 - [X] **At least five content creators are displayed on the homepage of the app**
 - [X] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
@@ -36,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/a/sCQt5W0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://i.imgur.com/H4DK3kl.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  👉🏿 ScreenToGif
 <!-- Recommended tools:
@@ -50,7 +48,7 @@ The existence of the supabase instance in client.js caused lots of ambiguity in 
 
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright 2023 Ostend Suryajaa
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
